@@ -5,7 +5,6 @@ int main() {
 
     printf("Enter the width of the rectangle: ");
     scanf("%d", &w);
-
     printf("Enter the height of the rectangle: ");
     scanf("%d", &h);
 
@@ -22,3 +21,4 @@ int main() {
 
     return 0;
 }
+

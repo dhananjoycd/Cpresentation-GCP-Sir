@@ -50,16 +50,4 @@ After printing each row, the `printf("\n")` statement is used to move to the nex
 ```
 Finally, the `return 0` statement indicates the successful execution of the program and it exits.
 
-For example, let's consider the following inputs:
-```
-Enter the w of the rectangle: 6
-Enter the h of the rectangle: 4
-```
-The corresponding output will be:
-```
-******
-*    *
-*    *
-******
-```
-In this output, the rectangle has a w of 6 and a h of 4. The asterisks represent the border of the rectangle, while the spaces represent the interior of the rectangle.
+
